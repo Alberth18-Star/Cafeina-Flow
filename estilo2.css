@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url(assets/img/fondo2.jpg);
+	border-bottom: border-box ;
+	background-position: center;
+}
+.registro{
+	width: 400px;
+	background: #3d2b1fcb;
+	padding: 40px;
+	margin: auto;
+	margin-top: 60px;
+	border-radius: 4px;
+	font-family: arial;
+	color: #aed38d;
+	box-shadow: 7px 13px 37px #000;
+}
+h1{
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.controls{
+	width: 100%;
+	background: #aed38d;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid #fff;
+	font-family: arial;
+	font-size: 18px;
+}
+.registro .botons{
+	width: 100%;
+	background: #78b046;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
+.registro .volver{
+	width: 100%;
+	background: #aed38d;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
